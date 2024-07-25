@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-22T19:44:06 IST" name="Default suite" finished-at="2024-07-22T19:46:28 IST" duration-ms="141315">
+    <groups>
+    </groups>
+    <test started-at="2024-07-22T19:44:06 IST" name="Default test" finished-at="2024-07-22T19:46:28 IST" duration-ms="141315">
+      <class name="runner.MiniProject">
+        <test-method signature="browserLunch()[pri:-5, instance:runner.MiniProject@43dac38f]" started-at="2024-07-22T19:44:07 IST" name="browserLunch" finished-at="2024-07-22T19:45:18 IST" duration-ms="71974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLunch -->
+        <test-method signature="productSearch()[pri:-4, instance:runner.MiniProject@43dac38f]" started-at="2024-07-22T19:45:19 IST" name="productSearch" finished-at="2024-07-22T19:45:24 IST" duration-ms="5547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productSearch -->
+        <test-method signature="productAdd()[pri:-3, instance:runner.MiniProject@43dac38f]" started-at="2024-07-22T19:45:24 IST" name="productAdd" finished-at="2024-07-22T19:45:32 IST" duration-ms="7519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productAdd -->
+        <test-method signature="productCheckout()[pri:-2, instance:runner.MiniProject@43dac38f]" started-at="2024-07-22T19:45:32 IST" name="productCheckout" finished-at="2024-07-22T19:46:28 IST" duration-ms="55990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productCheckout -->
+      </class> <!-- runner.MiniProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
